@@ -1,4 +1,4 @@
-# Snake Game
+# Snake Game [(🐍)](https://ramprakash852.github.io/Snake-game/)
 
 A classic Snake game implemented with HTML, CSS, and JavaScript. This simple yet addictive game challenges players to control a snake, eat food, and grow as long as possible without colliding with walls or itself.
 
@@ -57,4 +57,4 @@ Possible future improvements:
 
 ---
 
-Enjoy the game! 🐍
+[Enjoy the game!(🐍)](https://ramprakash852.github.io/Snake-game/)
